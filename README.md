@@ -1,47 +1,91 @@
-# Real Estate Analytics Dashboard
+# 📊 Real Estate Analytics Dashboard
 
-A responsive BI-style dashboard that analyzes sample housing market data with KPI cards, filters, a trend chart, and a data table.
+> A BI-style analytics dashboard that transforms raw housing market data into clear, actionable insights — built for Data Analyst and Business Intelligence portfolios.
 
-![Project screenshot](./assets/screenshot.png)
+🔗 **[Live Demo](https://fullstackwithai.github.io/real-estate-analytics-dashboard/)** &nbsp;|&nbsp; 👤 **[Portfolio](https://www.designhubmk.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
 
-## Why this project exists
+---
 
-This repo is designed for Data Analyst, BI Analyst, and Full Stack applications. It shows that you can turn raw market data into a stakeholder-friendly dashboard.
+![Dashboard Screenshot](./assets/screenshot.png)
 
-## Features
+---
 
-- City filter
-- Metric selector
-- KPI cards
-- SVG line chart generated with JavaScript
-- Source data table
-- Responsive dashboard layout
-- Public-style local dataset included directly in the project
+## 🧠 What This Project Demonstrates
 
-## Tech stack
+This project is designed to show real Data Analyst and BI Analyst skills:
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- JSON-style dataset
-- SVG chart rendering
+- Translating raw datasets into stakeholder-ready visual dashboards
+- Building interactive filters that update KPIs and charts in real time
+- Presenting housing market trends clearly without a backend dependency
+- Clean, accessible dashboard UI following BI design principles
 
-## Run locally
+---
 
-Open `index.html` directly in your browser, or run:
+## ✅ Features
+
+- **KPI Cards** — Avg. price, total listings, median days on market, price per sqft
+- **City Filter** — Dynamically filters all metrics and charts by market
+- **Metric Selector** — Switch between price, volume, and trend views
+- **SVG Line Chart** — JavaScript-rendered trend visualization, no library dependencies
+- **Source Data Table** — Full underlying dataset visible and sortable
+- **Included Dataset** — Local JSON-style housing market sample data
+- **Responsive Layout** — Works across desktop, tablet, and mobile
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML5 |
+| Styling | CSS3 / Flexbox / Grid |
+| Logic | Vanilla JavaScript |
+| Charts | SVG (hand-rendered via JS) |
+| Data | Local JSON dataset |
+
+---
+
+## 🚀 Run Locally
 
 ```bash
+# Option 1 — Open directly
+open index.html
+
+# Option 2 — Local server
 npx http-server .
 ```
 
-## Suggested GitHub description
+---
 
-`Responsive BI dashboard for real estate market trends with KPI cards, filters, SVG charts, and source data table.`
+## 📁 Project Structure
 
-## Future improvements
+```
+real-estate-analytics-dashboard/
+├── index.html          # Main dashboard
+├── assets/
+│   └── screenshot.png  # Preview image
+├── data/
+│   └── housing.json    # Sample dataset
+└── README.md
+```
 
-- Add CSV upload
-- Add backend API
-- Add PostgreSQL storage
-- Add downloadable reports
-- Add Power BI-style drilldowns
+---
+
+## 🔮 Planned Improvements
+
+- [ ] CSV upload for custom datasets
+- [ ] PostgreSQL backend integration
+- [ ] Downloadable PDF/Excel reports
+- [ ] Power BI-style drilldown views
+- [ ] Additional market comparison views
+
+---
+
+## 👤 About
+
+Built by **Arsim Shefkiu** — Full Stack Web Developer & AI-Assisted Builder with a focus on data-driven web products.
+
+- 🌐 [designhubmk.com](https://www.designhubmk.com)
+- 📧 info@designhubmk.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
+- 🐙 [GitHub](https://github.com/fullstackwithai)
