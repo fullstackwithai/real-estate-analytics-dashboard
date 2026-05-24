@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Miami",
+    "month": "Jan",
+    "medianPrice": 520000,
+    "listings": 740,
+    "avgDays": 38,
+    "rent": 2550
+  },
+  {
+    "city": "Miami",
+    "month": "Feb",
+    "medianPrice": 528000,
+    "listings": 762,
+    "avgDays": 36,
+    "rent": 2580
+  },
+  {
+    "city": "Miami",
+    "month": "Mar",
+    "medianPrice": 541000,
+    "listings": 781,
+    "avgDays": 34,
+    "rent": 2620
+  },
+  {
+    "city": "Miami",
+    "month": "Apr",
+    "medianPrice": 553000,
+    "listings": 812,
+    "avgDays": 33,
+    "rent": 2665
+  },
+  {
+    "city": "Skopje",
+    "month": "Jan",
+    "medianPrice": 145000,
+    "listings": 510,
+    "avgDays": 47,
+    "rent": 620
+  },
+  {
+    "city": "Skopje",
+    "month": "Feb",
+    "medianPrice": 149000,
+    "listings": 524,
+    "avgDays": 45,
+    "rent": 635
+  },
+  {
+    "city": "Skopje",
+    "month": "Mar",
+    "medianPrice": 153000,
+    "listings": 548,
+    "avgDays": 43,
+    "rent": 650
+  },
+  {
+    "city": "Skopje",
+    "month": "Apr",
+    "medianPrice": 158000,
+    "listings": 561,
+    "avgDays": 41,
+    "rent": 670
+  },
+  {
+    "city": "Gostivar",
+    "month": "Jan",
+    "medianPrice": 98000,
+    "listings": 210,
+    "avgDays": 52,
+    "rent": 410
+  },
+  {
+    "city": "Gostivar",
+    "month": "Feb",
+    "medianPrice": 101000,
+    "listings": 224,
+    "avgDays": 49,
+    "rent": 420
+  },
+  {
+    "city": "Gostivar",
+    "month": "Mar",
+    "medianPrice": 104000,
+    "listings": 236,
+    "avgDays": 47,
+    "rent": 435
+  },
+  {
+    "city": "Gostivar",
+    "month": "Apr",
+    "medianPrice": 107000,
+    "listings": 242,
+    "avgDays": 45,
+    "rent": 445
+  }
+]
