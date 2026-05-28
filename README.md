@@ -1,10 +1,21 @@
 # 📊 Real Estate Analytics Dashboard
 
-> A BI-style analytics dashboard that transforms raw housing market data into clear, actionable insights — built for Data Analyst and Business Intelligence portfolios.
+> PropTech analytics dashboard that turns housing market data into pricing trends, city comparisons, KPI visibility, and market insight.
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-🔗 **[Live Demo](https://fullstackwithai.github.io/real-estate-analytics-dashboard/)** &nbsp;|&nbsp; 👤 **[Portfolio](https://www.designhubmk.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
+<p align="center">
+  <img alt="PropTech Analytics" src="https://img.shields.io/badge/PropTech%20Analytics-Housing%20Market%20Intelligence-059669?style=for-the-badge" />
+  <img alt="Market BI" src="https://img.shields.io/badge/Market%20BI-Real%20Estate%20Insights-0F172A?style=for-the-badge" />
+  <img alt="Dashboard" src="https://img.shields.io/badge/Dashboard-HTML%20CSS%20JS-38BDF8?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://fullstackwithai.github.io/real-estate-analytics-dashboard/"><strong>Live Demo</strong></a> ·
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
 
 ---
 
@@ -12,104 +23,106 @@ Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted
 
 ---
 
-## 🧠 What This Project Demonstrates
+## PropTech Analytics Theme
 
-This project is designed to show real Data Analyst and BI Analyst skills:
+> **Housing data to market clarity. Property metrics to decision-ready insight.**
 
-- Translating raw datasets into stakeholder-ready visual dashboards
-- Building interactive filters that update KPIs and charts in real time
-- Presenting housing market trends clearly without a backend dependency
-- Clean, accessible dashboard UI following BI design principles
+This repository is presented as a real estate market intelligence dashboard. It uses property data, city filters, KPI cards, and chart views to explain pricing, inventory, and market movement in a clean BI-style format.
 
----
-
-## ✅ Features
-
-- **KPI Cards** — Avg. price, total listings, median days on market, price per sqft
-- **City Filter** — Dynamically filters all metrics and charts by market
-- **Metric Selector** — Switch between price, volume, and trend views
-- **SVG Line Chart** — JavaScript-rendered trend visualization, no library dependencies
-- **Source Data Table** — Full underlying dataset visible and sortable
-- **Included Dataset** — Local JSON-style housing market sample data
-- **Responsive Layout** — Works across desktop, tablet, and mobile
-
----
-
-## 🛠 Tech Stack
-
-| Layer | Technology |
+| Theme Layer | Direction |
 |---|---|
-| Structure | HTML5 |
-| Styling | CSS3 / Flexbox / Grid |
-| Logic | Vanilla JavaScript |
-| Charts | SVG (hand-rendered via JS) |
-| Data | Local JSON dataset |
+| **Design Identity** | Teal, cyan, and blue market-intelligence palette |
+| **Product Feel** | PropTech dashboard / housing market report |
+| **Audience** | Real estate teams, data analysts, BI reviewers, hiring managers |
+| **Core Message** | Market data + filters + charts + readable insight |
 
 ---
 
-## 🚀 Run Locally
+## Market KPI Layer
+
+| KPI | Purpose |
+|---|---|
+| **Average Price** | Measures market pricing level |
+| **Total Listings** | Shows available market inventory |
+| **Median Days on Market** | Measures market speed |
+| **Price per Sqft** | Normalizes property value |
+| **City Filter** | Turns broad data into local insight |
+
+---
+
+## Business Questions
+
+| Question | Why It Matters |
+|---|---|
+| **Which city has the strongest pricing trend?** | Helps compare local market performance |
+| **Where is inventory concentrated?** | Shows supply distribution |
+| **Which markets move fastest?** | Reveals stronger demand signals |
+| **How do prices compare by location?** | Supports clearer market positioning |
+
+---
+
+## What This Project Demonstrates
+
+| Capability | Evidence in This Repo |
+|---|---|
+| **Data Analytics** | Housing data turned into KPIs and trends |
+| **Dashboard Thinking** | Filters, metric cards, charts, and table views |
+| **Frontend Execution** | Responsive HTML/CSS/JS interface |
+| **PropTech Product Sense** | Real estate data presented as a usable product view |
+| **Data Storytelling** | Pricing and inventory explained clearly |
+
+---
+
+## Features
+
+- KPI cards for price, listings, days on market, and price per sqft
+- City filter for market comparison
+- Metric selector for trend views
+- Source data table
+- Responsive dashboard layout
+
+---
+
+## Run Locally
 
 ```bash
-# Option 1 — Open directly
 open index.html
-
-# Option 2 — Local server
+# or
 npx http-server .
 ```
 
 ---
 
-## 📁 Project Structure
+## Project Architecture
 
-```
+```text
 real-estate-analytics-dashboard/
-├── index.html          # Main dashboard
+├── index.html
 ├── assets/
-│   └── screenshot.png  # Preview image
+│   └── screenshot.png
 ├── data/
-│   └── housing.json    # Sample dataset
+│   └── housing.json
 └── README.md
 ```
 
 ---
 
-## 🔮 Planned Improvements
-
-- [ ] CSV upload for custom datasets
-- [ ] PostgreSQL backend integration
-- [ ] Downloadable PDF/Excel reports
-- [ ] Power BI-style drilldown views
-- [ ] Additional market comparison views
-
----
-
 ## Creator & Brand
-
-<p align="center">
-  <img alt="PropTech Analytics" src="https://img.shields.io/badge/PropTech%20Analytics-Housing%20Market%20Intelligence-059669?style=for-the-badge" />
-  <img alt="Market BI" src="https://img.shields.io/badge/Market%20BI-Real%20Estate%20Insights-0F172A?style=for-the-badge" />
-  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-38BDF8?style=for-the-badge" />
-</p>
 
 ### Built by **Arsim Shefkiu** under **FullStackWithAI**
 
-> **PropTech analytics dashboard for turning housing market data into clear trends, market comparisons, and investor-ready insights.**
+> **PropTech analytics theme focused on housing market intelligence, KPI dashboards, and real estate data storytelling.**
 
-| Brand Direction | Portfolio Value |
+| Creator Focus | Brand Positioning |
 |---|---|
-| **Real estate market intelligence** | Shows ability to analyze property data and present market movement clearly |
-| **BI-style dashboard design** | Demonstrates KPI selection, chart thinking, and stakeholder-ready reporting |
-| **Interactive filtering** | Shows practical frontend/data interaction for city and metric views |
-| **Investor-ready storytelling** | Positions the project for real estate, finance, and analytics audiences |
-
-**Professional Focus:** I build analytics dashboards that translate market data into business-friendly insight, visual clarity, and decision support.
-
-**Why it matters:** Hiring managers and executives can see that this project connects data analysis with real business use cases in property, investment, and market strategy.
+| I build analytics dashboards that translate market data into clear, business-friendly insight. | **FullStackWithAI** represents portfolio work built around real business problems, clean product presentation, and AI-assisted development execution. |
 
 <p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+  <strong>Theme:</strong> PropTech Analytics · Market Intelligence · Housing Data · BI Dashboards
 </p>
 
 <p align="center">
-  <strong>FullStackWithAI</strong> · PropTech analytics · Market intelligence · BI dashboards · AI-assisted product thinking
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
+  <strong>arsim@designhubmk.com</strong> ·
+  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
 </p>
