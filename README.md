@@ -2,6 +2,8 @@
 
 > A BI-style analytics dashboard that transforms raw housing market data into clear, actionable insights — built for Data Analyst and Business Intelligence portfolios.
 
+Built by **Arsim Shefkiu** under **FullStackWithAI** — full-stack, AI-assisted, and data-driven web solutions.
+
 🔗 **[Live Demo](https://fullstackwithai.github.io/real-estate-analytics-dashboard/)** &nbsp;|&nbsp; 👤 **[Portfolio](https://www.designhubmk.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)**
 
 ---
@@ -83,7 +85,7 @@ real-estate-analytics-dashboard/
 
 ## 👤 About
 
-Built by **Arsim Shefkiu** — Full Stack Web Developer & AI-Assisted Builder with a focus on data-driven web products.
+Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
 
 - 🌐 [designhubmk.com](https://www.designhubmk.com)
 - 📧 info@designhubmk.com
