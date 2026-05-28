@@ -83,11 +83,33 @@ real-estate-analytics-dashboard/
 
 ---
 
-## 👤 About
+## Creator & Brand
 
-Built by **Arsim Shefkiu** under **FullStackWithAI** — Full Stack Web Developer & AI-Assisted Builder specializing in AI-powered web products, dashboards, automation tools, and modern portfolio-ready applications.
+<p align="center">
+  <img alt="PropTech Analytics" src="https://img.shields.io/badge/PropTech%20Analytics-Housing%20Market%20Intelligence-059669?style=for-the-badge" />
+  <img alt="Market BI" src="https://img.shields.io/badge/Market%20BI-Real%20Estate%20Insights-0F172A?style=for-the-badge" />
+  <img alt="Brand" src="https://img.shields.io/badge/Built%20Under-FullStackWithAI-38BDF8?style=for-the-badge" />
+</p>
 
-- 🌐 [designhubmk.com](https://www.designhubmk.com)
-- 📧 info@designhubmk.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arsim-shefkiu-78432a3b5)
-- 🐙 [GitHub](https://github.com/fullstackwithai)
+### Built by **Arsim Shefkiu** under **FullStackWithAI**
+
+> **PropTech analytics dashboard for turning housing market data into clear trends, market comparisons, and investor-ready insights.**
+
+| Brand Direction | Portfolio Value |
+|---|---|
+| **Real estate market intelligence** | Shows ability to analyze property data and present market movement clearly |
+| **BI-style dashboard design** | Demonstrates KPI selection, chart thinking, and stakeholder-ready reporting |
+| **Interactive filtering** | Shows practical frontend/data interaction for city and metric views |
+| **Investor-ready storytelling** | Positions the project for real estate, finance, and analytics audiences |
+
+**Professional Focus:** I build analytics dashboards that translate market data into business-friendly insight, visual clarity, and decision support.
+
+**Why it matters:** Hiring managers and executives can see that this project connects data analysis with real business use cases in property, investment, and market strategy.
+
+<p align="center">
+  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> · <strong>arsim@designhubmk.com</strong> · <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
+</p>
+
+<p align="center">
+  <strong>FullStackWithAI</strong> · PropTech analytics · Market intelligence · BI dashboards · AI-assisted product thinking
+</p>
